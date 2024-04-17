@@ -13,7 +13,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ##  Projeto
 
-Agregador de links desenvolvido com os fundamentos de HTML, CSS e JavaScript, além do Figma para o layout e Git e GitHub para deixá-lo em repositório remoto, além da criação de um link para o projeto através do GitHub.
+Agregador de links desenvolvido com os fundamentos de HTML, CSS e JavaScript, uso do Figma para o layout e Git e GitHub para deixá-lo em repositório remoto, além da criação de um link para o projeto através do GitHub.
 
 
 ## Direitos
